@@ -15,11 +15,11 @@ A software engineer in the making 🧑🏻‍💻 | [GDSC Lead 23'](https://gith
 
 <img align="left" alt="HTML" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:html5.svg" />
 <img align="left" alt="Tailwind CSS" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:tailwindcss.svg" />
-<img align="left" alt="Astro" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:astro.svg" />
+<img align="left" alt="Astro" width="32px" style="margin-right:10px;" src="https://api.iconify.design/vscode-icons:file-type-astro.svg" />
 <img align="left" alt="React" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:react.svg" />
 <img align="left" alt="Svelte" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:svelte.svg" />
 <img align="left" alt="TypeScript" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:typescript.svg" />
-<img align="left" alt="Three.js" width="32px" style="margin-right:10px;" src="https://api.iconify.design/devicon:threejs.svg" />
+<img align="left" alt="Three.js" width="32px" style="margin-right:10px;" src="https://api.iconify.design/skill-icons:threejs-light.svg" />
 
 <img align="left" alt="Firebase" width="32px" style="margin-right:10px;" src="https://api.iconify.design/vscode-icons:file-type-firebase.svg" />
 <img align="left" alt="Netlify" width="32px" style="margin-right:10px;" src="https://api.iconify.design/vscode-icons:file-type-light-netlify.svg">
