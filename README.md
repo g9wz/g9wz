@@ -10,12 +10,9 @@ A software engineer in the making 🧑🏻‍💻 | [GDSC Lead 23'](https://gith
 
 <p align="center">
     <img alt="Java" width="32px" src="./imgs/logos/Java.svg"/>&nbsp;
-    <img alt="Python" width="32px" src="./imgs/logos/Python.svg">&nbsp;
     <img alt="Flutter" width="32px" src="./imgs/logos/Flutter.svg" />&nbsp;
-    <img alt="HTML" width="32px" src="./imgs/logos/Html5.svg" />&nbsp;
-    <img alt="Tailwind CSS" width="32px" src="./imgs/logos/TailwindCSS.svg" />&nbsp;
     <img alt="Astro" width="32px" src="./imgs/logos/Astro.svg" />&nbsp;
-    <img alt="React" width="32px" src="./imgs/logos/React.svg" />&nbsp;
+    <img alt="Tailwind CSS" width="32px" src="./imgs/logos/TailwindCSS.svg" />&nbsp;
     <img alt="Svelte" width="32px" src="./imgs/logos/Svelte.svg" />&nbsp;
     <img alt="TypeScript" width="32px" src="./imgs/logos/TypeScript.svg" />&nbsp;
     <img alt="Three.js" width="32px" src="./imgs/logos/Threejs.svg" />&nbsp;
