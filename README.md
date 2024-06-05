@@ -3,7 +3,7 @@
 A software engineer 🧑🏻‍💻 | [GDSC Lead 23'](https://github.com/GDSC-YU/) | Former CrossFit athlete 🤸🏻
 
 - 🖥️ Currently on a Flutter learning mission; web dev overloaded.
-- 📫 Feel free to reach out, find my [Erbut](https://erbut.me/) on the left!
+- 📫 Feel free to reach out, find my Erbut on the left!
 
 ##### 🧰 Languages and Tools:
 
